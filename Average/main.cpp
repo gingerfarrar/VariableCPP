@@ -10,7 +10,7 @@ int main()
 	numA = num1 + num2 + num3 + num4 + num5;
 	numC = numA / numB;
 	
-
+	//
 	printf("Average: %d", numC);
 	getchar();
 }
